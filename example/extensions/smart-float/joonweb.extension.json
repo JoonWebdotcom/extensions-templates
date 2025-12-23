@@ -1,0 +1,24 @@
+{
+  "name": "smart-float",
+  "version": "1.0.0",
+  "type": "theme_app_extension",
+  "extension_key":"",
+  "blocks": [
+    {
+      "type": "app_embed",
+      "name": "Smart Float Block",
+      "target": "head",
+      "src": "blocks/smart-float-block.jw"
+    }
+  ],
+  "assets": [
+    {
+      "path": "assets/smart-float.css",
+      "type": "css"
+    },
+    {
+      "path": "assets/smart-float.js",
+      "type": "js"
+    }
+  ]
+}

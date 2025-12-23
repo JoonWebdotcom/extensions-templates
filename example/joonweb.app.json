@@ -1,0 +1,12 @@
+{
+  "appId": "a1583b441765799669496",
+  "name": "myfloating",
+  "client_id": "4f30013c02bc6caf",
+  "client_secret": "8725e0d9fbde1d4567e9b18a99a95b14e3a9",
+  "app_url": "",
+  "redirect_uri": "",
+  "template": "php",
+  "embedded": true,
+  "platform": "all",
+  "version": "1.0.0"
+}

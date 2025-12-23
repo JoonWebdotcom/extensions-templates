@@ -1,0 +1,19 @@
+{
+  "name": "aisensy",
+  "description": "JoonWeb App - Aisensy",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Joonweb\\EmbedApp\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "JoonWeb",
+      "homepage": "https://www.joonweb.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}

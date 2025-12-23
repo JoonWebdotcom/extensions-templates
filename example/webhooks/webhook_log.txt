@@ -1,0 +1,135 @@
+=====================
+Time: 2025-12-02 08:38:32
+Headers: {
+    "Host": "lime-mode-assessing-bands.trycloudflare.com",
+    "Content-Length": "3051",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip",
+    "Cdn-Loop": "cloudflare; loops=1; subreqs=1",
+    "Cf-Connecting-Ip": "65.254.80.34",
+    "Cf-Ew-Via": "15",
+    "Cf-Ipcountry": "IN",
+    "Cf-Ray": "9a792a47849bff9e-DEL",
+    "Cf-Visitor": "{\"scheme\":\"https\"}",
+    "Cf-Warp-Tag-Id": "4fa4ed0d-9a3f-4928-8a6d-4fa164caad16",
+    "Cf-Worker": "trycloudflare.com",
+    "Connection": "keep-alive",
+    "Content-Type": "application\/json",
+    "X-Forwarded-For": "65.254.80.34",
+    "X-Forwarded-Proto": "https",
+    "X-Joonweb-Api-Version": "26.0",
+    "X-Joonweb-Event": "orders\/create",
+    "X-Joonweb-Site": "mysite.myjoonweb.com",
+    "X-Webhook-Signature": "40aefc8cbcc96ece7c7eb02b850ca1f05395118316aa49a45371b7324caa9ccb"
+}
+Body: {"id":"","event":"orders\/create","site_url":"mysite.myjoonweb.com","occurred_at":"2025-12-02T13:00:31+05:30","payload":{"order":{"id":25321,"invoice_id":"90376","name":"90376","app_id":null,"cancel_reason":null,"cancelled_at":null,"cart_token":"J3481764660606","checkout_id":991918,"checkout_token":"692e958200035-251202130010-0000","closed_at":null,"confirmation_number":"90376","confirmed":true,"contact_email":"abbascoder@gmail.com","created_at":"2025-12-02 13:00:14","currency":"INR","current_subtotal_price":"599.00","current_total_discounts":"0","current_total_price":"649.00","current_total_tax":"0.00","discount_codes":[],"email":"abbascoder@gmail.com","estimated_taxes":false,"payment_status":"pending","shipping_status":"confirmed","location_id":null,"note":null,"note_attributes":[],"number":25321,"order_number":25321,"order_status_url":null,"payment_gateway_names":["manual"],"phone":"7703877737","presentment_currency":"INR","processed_at":"2025-12-02 13:00:14","processing_method":"manual","reference":null,"referring_site":null,"source_identifier":null,"source_name":"web","source_url":null,"subtotal_price":"599.00","tags":"","tax_lines":[{"price":"0.00","rate":0,"title":"Tax"}],"taxes_included":true,"test":false,"token":"692e9586d8e67-251202130014-8884","total_discounts":"0","total_line_items_price":"599.00","total_outstanding":"0.00","total_price":"649.00","total_tax":"0.00","total_tip_received":"0.00","total_weight":0,"updated_at":"2025-12-02 13:00:14","customer_id":96685,"billing_address":{"first_name":"GSTBill","last_name":"","company":"","address1":"Awesome Address","address2":"","city":"Delhi","state":"Delhi","country":"India","zip":"110025","phone":"7703877737","name":"GSTBill","country_code":"IN","province_code":"DE"},"customer":{"id":96685,"email":"abbascoder@gmail.com","first_name":"GSTBill","last_name":"","mobile":"7703877737","username":"Abbas","name":"Abbas","firstName":"Abbas","lastName":null,"status":"active","type":"member","created_at":"2024-05-13 14:01:09","updated_at":"2024-11-22 15:08:21"},"shipments":[],"shipping_address":{"first_name":"Abbas","last_name":"Rizvi","company":"","address1":"Joon Corporation, Westend Mall, Jankpuri Wests","address2":"sdas","city":"Awesome","state":"Delhi","country":"India","zip":"110058","mobile":"7703877737","name":"Abbas Rizvi","country_code":"IN","state_code":"DE"},"shipping_lines":[{"id":1,"title":"Standard Shipping","price":"50.00","code":"standard","source":"manual","phone":"7703877737","requested_fulfillment_service_id":null,"carrier_identifier":null,"discounted_price":"50.00"}],"returns":[],"items":[{"id":30634,"fulfillable_quantity":1,"fulfillment_service":"manual","fulfillment_status":"pending","weight":200,"name":"CORDUROY BUTTON-UP SHIRT IN PHANTOM","price":"599.00","product_exists":true,"product_id":22937,"properties":[],"quantity":1,"requires_shipping":true,"sku":"","taxable":false,"title":"CORDUROY BUTTON-UP SHIRT IN PHANTOM","total_discount":"0.00","variant_id":72173685276213,"variant_title":null,"vendor":null,"tax_lines":[]}]}}}
+=====================
+
+=====================
+Time: 2025-12-02 08:43:32
+Headers: {
+    "Host": "lime-mode-assessing-bands.trycloudflare.com",
+    "Content-Length": "3072",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip",
+    "Cdn-Loop": "cloudflare; loops=1; subreqs=1",
+    "Cf-Connecting-Ip": "65.254.80.34",
+    "Cf-Ew-Via": "15",
+    "Cf-Ipcountry": "IN",
+    "Cf-Ray": "9a793196d3d83fba-DEL",
+    "Cf-Visitor": "{\"scheme\":\"https\"}",
+    "Cf-Warp-Tag-Id": "4fa4ed0d-9a3f-4928-8a6d-4fa164caad16",
+    "Cf-Worker": "trycloudflare.com",
+    "Connection": "keep-alive",
+    "Content-Type": "application\/json",
+    "X-Forwarded-For": "65.254.80.34",
+    "X-Forwarded-Proto": "https",
+    "X-Joonweb-Api-Version": "26.0",
+    "X-Joonweb-Event": "orders\/create",
+    "X-Joonweb-Site": "mysite.myjoonweb.com",
+    "X-Webhook-Signature": "e5f8335a55d3674a0e8f97d86c11d9d1fef910d460ce29066aa97ee01c70dff7"
+}
+Body: {"id":"","event":"orders\/create","site_url":"mysite.myjoonweb.com","occurred_at":"2025-12-02T13:13:28+05:30","payload":{"order":{"id":25322,"invoice_id":"90377","name":"90377","app_id":null,"cancel_reason":null,"cancelled_at":null,"cart_token":"J7431764661272","checkout_id":991919,"checkout_token":"692e981bc3e6b-251202131115-8024","closed_at":null,"confirmation_number":"90377","confirmed":true,"contact_email":"abbascoder@gmail.com","created_at":"2025-12-02 13:11:20","currency":"INR","current_subtotal_price":"491.18","current_total_discounts":"0","current_total_price":"649.00","current_total_tax":"107.82","discount_codes":[],"email":"abbascoder@gmail.com","estimated_taxes":false,"payment_status":"pending","shipping_status":"confirmed","location_id":null,"note":null,"note_attributes":[],"number":25322,"order_number":25322,"order_status_url":null,"payment_gateway_names":["manual"],"phone":"7703877737","presentment_currency":"INR","processed_at":"2025-12-02 13:11:20","processing_method":"manual","reference":null,"referring_site":null,"source_identifier":null,"source_name":"web","source_url":null,"subtotal_price":"491.18","tags":"","tax_lines":[{"price":"107.82","rate":0,"title":"Tax"}],"taxes_included":true,"test":false,"token":"692e982055adb-251202131120-3509","total_discounts":"0","total_line_items_price":"491.18","total_outstanding":"0.00","total_price":"649.00","total_tax":"107.82","total_tip_received":"0.00","total_weight":0,"updated_at":"2025-12-02 13:11:20","customer_id":96685,"billing_address":{"first_name":"GSTBill","last_name":"","company":"","address1":"Awesome Address","address2":"","city":"Delhi","state":"Delhi","country":"India","zip":"110025","phone":"7703877737","name":"GSTBill","country_code":"IN","province_code":"DE"},"customer":{"id":96685,"email":"abbascoder@gmail.com","first_name":"GSTBill","last_name":"","mobile":"7703877737","username":"Abbas","name":"Abbas","firstName":"Abbas","lastName":null,"status":"active","type":"member","created_at":"2024-05-13 14:01:09","updated_at":"2024-11-22 15:08:21"},"shipments":[],"shipping_address":{"first_name":"Abbas","last_name":"Rizvi","company":"","address1":"Joon Corporation, Westend Mall, Jankpuri Wests","address2":"sdas","city":"Awesome","state":"Delhi","country":"India","zip":"110058","mobile":"7703877737","name":"Abbas Rizvi","country_code":"IN","state_code":"DE"},"shipping_lines":[{"id":1,"title":"Standard Shipping","price":"50.00","code":"standard","source":"manual","phone":"7703877737","requested_fulfillment_service_id":null,"carrier_identifier":null,"discounted_price":"50.00"}],"returns":[],"items":[{"id":30635,"fulfillable_quantity":1,"fulfillment_service":"manual","fulfillment_status":"pending","weight":280,"name":"ADRIANA ANKLE SUPER SKINNY IN MID SUPERSOFT","price":"599.00","product_exists":true,"product_id":22908,"properties":[],"quantity":1,"requires_shipping":true,"sku":"","taxable":true,"title":"ADRIANA ANKLE SUPER SKINNY IN MID SUPERSOFT","total_discount":"0.00","variant_id":72173685235945,"variant_title":null,"vendor":null,"tax_lines":[]}]}}}
+=====================
+
+=====================
+Time: 2025-12-02 09:04:29
+Headers: {
+    "Host": "lime-mode-assessing-bands.trycloudflare.com",
+    "Content-Length": "3043",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip",
+    "Cdn-Loop": "cloudflare; loops=1; subreqs=1",
+    "Cf-Connecting-Ip": "65.254.80.34",
+    "Cf-Ew-Via": "15",
+    "Cf-Ipcountry": "IN",
+    "Cf-Ray": "9a79504874f04148-DEL",
+    "Cf-Visitor": "{\"scheme\":\"https\"}",
+    "Cf-Warp-Tag-Id": "4fa4ed0d-9a3f-4928-8a6d-4fa164caad16",
+    "Cf-Worker": "trycloudflare.com",
+    "Connection": "keep-alive",
+    "Content-Type": "application\/json",
+    "X-Forwarded-For": "65.254.80.34",
+    "X-Forwarded-Proto": "https",
+    "X-Joonweb-Api-Version": "26.0",
+    "X-Joonweb-Event": "orders\/create",
+    "X-Joonweb-Site": "mysite.myjoonweb.com",
+    "X-Webhook-Signature": "ff635e15d153223e2b15696a6c357175572f365f25f74381e6fc0b3f2c394058"
+}
+Body: {"id":"","event":"orders\/create","site_url":"mysite.myjoonweb.com","occurred_at":"2025-12-02T13:34:25+05:30","payload":{"order":{"id":25323,"invoice_id":"90378","name":"90378","app_id":null,"cancel_reason":null,"cancelled_at":null,"cart_token":"J4721764662403","checkout_id":991920,"checkout_token":"692e9c86ccfde-251202133006-8396","closed_at":null,"confirmation_number":"90378","confirmed":true,"contact_email":"abbascoder@gmail.com","created_at":"2025-12-02 13:30:09","currency":"INR","current_subtotal_price":"580.00","current_total_discounts":"0","current_total_price":"630.00","current_total_tax":"0.00","discount_codes":[],"email":"abbascoder@gmail.com","estimated_taxes":false,"payment_status":"pending","shipping_status":"confirmed","location_id":null,"note":null,"note_attributes":[],"number":25323,"order_number":25323,"order_status_url":null,"payment_gateway_names":["manual"],"phone":"7703877737","presentment_currency":"INR","processed_at":"2025-12-02 13:30:09","processing_method":"manual","reference":null,"referring_site":null,"source_identifier":null,"source_name":"web","source_url":null,"subtotal_price":"580.00","tags":"","tax_lines":[{"price":"0.00","rate":0,"title":"Tax"}],"taxes_included":true,"test":false,"token":"692e9c8995989-251202133009-6127","total_discounts":"0","total_line_items_price":"580.00","total_outstanding":"0.00","total_price":"630.00","total_tax":"0.00","total_tip_received":"0.00","total_weight":0,"updated_at":"2025-12-02 13:30:09","customer_id":96685,"billing_address":{"first_name":"GSTBill","last_name":"","company":"","address1":"Awesome Address","address2":"","city":"Delhi","state":"Delhi","country":"India","zip":"110025","phone":"7703877737","name":"GSTBill","country_code":"IN","province_code":"DE"},"customer":{"id":96685,"email":"abbascoder@gmail.com","first_name":"GSTBill","last_name":"","mobile":"7703877737","username":"Abbas","name":"Abbas","firstName":"Abbas","lastName":null,"status":"active","type":"member","created_at":"2024-05-13 14:01:09","updated_at":"2024-11-22 15:08:21"},"shipments":[],"shipping_address":{"first_name":"Abbas","last_name":"Rizvi","company":"","address1":"Joon Corporation, Westend Mall, Jankpuri Wests","address2":"sdas","city":"Awesome","state":"Delhi","country":"India","zip":"110058","mobile":"7703877737","name":"Abbas Rizvi","country_code":"IN","state_code":"DE"},"shipping_lines":[{"id":1,"title":"Standard Shipping","price":"50.00","code":"standard","source":"manual","phone":"7703877737","requested_fulfillment_service_id":null,"carrier_identifier":null,"discounted_price":"50.00"}],"returns":[],"items":[{"id":30636,"fulfillable_quantity":1,"fulfillment_service":"manual","fulfillment_status":"pending","weight":998,"name":"BASIC POLO SHIRT IN AGAVE GREEN","price":"580.00","product_exists":true,"product_id":22907,"properties":[],"quantity":1,"requires_shipping":true,"sku":"","taxable":false,"title":"BASIC POLO SHIRT IN AGAVE GREEN","total_discount":"0.00","variant_id":69173685234612,"variant_title":null,"vendor":null,"tax_lines":[]}]}}}
+=====================
+
+=====================
+Time: 2025-12-02 10:33:29
+Headers: {
+    "Host": "lime-mode-assessing-bands.trycloudflare.com",
+    "Content-Length": "3086",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip",
+    "Cdn-Loop": "cloudflare; loops=1; subreqs=1",
+    "Cf-Connecting-Ip": "65.254.80.34",
+    "Cf-Ew-Via": "15",
+    "Cf-Ipcountry": "IN",
+    "Cf-Ray": "9a79d2b2c33c400f-DEL",
+    "Cf-Visitor": "{\"scheme\":\"https\"}",
+    "Cf-Warp-Tag-Id": "4fa4ed0d-9a3f-4928-8a6d-4fa164caad16",
+    "Cf-Worker": "trycloudflare.com",
+    "Connection": "keep-alive",
+    "Content-Type": "application\/json",
+    "X-Forwarded-For": "65.254.80.34",
+    "X-Forwarded-Proto": "https",
+    "X-Joonweb-Api-Version": "26.0",
+    "X-Joonweb-Event": "orders\/create",
+    "X-Joonweb-Site": "mysite.myjoonweb.com",
+    "X-Webhook-Signature": "294f1ddfb4139a6e8297bfd45ca7eaa604c569f204fd52bcab69a543d6e72761"
+}
+Body: {"id":"","event":"orders\/create","site_url":"mysite.myjoonweb.com","occurred_at":"2025-12-02T15:03:27+05:30","payload":{"order":{"id":25330,"invoice_id":"90379","name":"90379","app_id":null,"cancel_reason":null,"cancelled_at":null,"cart_token":"J9001764667930","checkout_id":991928,"checkout_token":"692eb21cbf021-251202150212-7823","closed_at":null,"confirmation_number":"90379","confirmed":true,"contact_email":"abbascoder@gmail.com","created_at":"2025-12-02 15:02:42","currency":"INR","current_subtotal_price":"491.18","current_total_discounts":"0","current_total_price":"649.00","current_total_tax":"107.82","discount_codes":[],"email":"abbascoder@gmail.com","estimated_taxes":false,"payment_status":"pending","shipping_status":"pending","location_id":null,"note":null,"note_attributes":[],"number":25330,"order_number":25330,"order_status_url":null,"payment_gateway_names":["Cash On Delivery (COD)"],"phone":"7703877737","presentment_currency":"INR","processed_at":"2025-12-02 15:02:42","processing_method":"manual","reference":null,"referring_site":null,"source_identifier":null,"source_name":"web","source_url":null,"subtotal_price":"491.18","tags":"","tax_lines":[{"price":"107.82","rate":0,"title":"Tax"}],"taxes_included":true,"test":false,"token":"692eb23a8073e-251202150242-5261","total_discounts":"0","total_line_items_price":"491.18","total_outstanding":"0.00","total_price":"649.00","total_tax":"107.82","total_tip_received":"0.00","total_weight":0,"updated_at":"2025-12-02 15:02:42","customer_id":96685,"billing_address":{"first_name":"GSTBill","last_name":"","company":"","address1":"Awesome Address","address2":"","city":"Delhi","state":"Delhi","country":"India","zip":"110025","phone":"7703877737","name":"GSTBill","country_code":"IN","province_code":"DE"},"customer":{"id":96685,"email":"abbascoder@gmail.com","first_name":"GSTBill","last_name":"","mobile":"7703877737","username":"Abbas","name":"Abbas","firstName":"Abbas","lastName":null,"status":"active","type":"member","created_at":"2024-05-13 14:01:09","updated_at":"2024-11-22 15:08:21"},"shipments":[],"shipping_address":{"first_name":"Abbas","last_name":"Rizvi","company":"","address1":"Joon Corporation, Westend Mall, Jankpuri Wests","address2":"sdas","city":"Awesome","state":"Delhi","country":"India","zip":"110058","mobile":"7703877737","name":"Abbas Rizvi","country_code":"IN","state_code":"DE"},"shipping_lines":[{"id":1,"title":"Standard Shipping","price":"50.00","code":"standard","source":"manual","phone":"7703877737","requested_fulfillment_service_id":null,"carrier_identifier":null,"discounted_price":"50.00"}],"returns":[],"items":[{"id":30644,"fulfillable_quantity":1,"fulfillment_service":"manual","fulfillment_status":"pending","weight":280,"name":"ADRIANA ANKLE SUPER SKINNY IN MID SUPERSOFT","price":"599.00","product_exists":true,"product_id":22908,"properties":[],"quantity":1,"requires_shipping":true,"sku":"","taxable":true,"title":"ADRIANA ANKLE SUPER SKINNY IN MID SUPERSOFT","total_discount":"0.00","variant_id":72173685235945,"variant_title":null,"vendor":null,"tax_lines":[]}]}}}
+=====================
+
+=====================
+Time: 2025-12-02 10:38:31
+Headers: {
+    "Host": "lime-mode-assessing-bands.trycloudflare.com",
+    "Content-Length": "3086",
+    "Accept": "*\/*",
+    "Accept-Encoding": "gzip",
+    "Cdn-Loop": "cloudflare; loops=1; subreqs=1",
+    "Cf-Connecting-Ip": "65.254.80.34",
+    "Cf-Ew-Via": "15",
+    "Cf-Ipcountry": "IN",
+    "Cf-Ray": "9a79da1162718537-BOM",
+    "Cf-Visitor": "{\"scheme\":\"https\"}",
+    "Cf-Warp-Tag-Id": "4fa4ed0d-9a3f-4928-8a6d-4fa164caad16",
+    "Cf-Worker": "trycloudflare.com",
+    "Connection": "keep-alive",
+    "Content-Type": "application\/json",
+    "X-Forwarded-For": "65.254.80.34",
+    "X-Forwarded-Proto": "https",
+    "X-Joonweb-Api-Version": "26.0",
+    "X-Joonweb-Event": "orders\/create",
+    "X-Joonweb-Site": "mysite.myjoonweb.com",
+    "X-Webhook-Signature": "294f1ddfb4139a6e8297bfd45ca7eaa604c569f204fd52bcab69a543d6e72761"
+}
+Body: {"id":"","event":"orders\/create","site_url":"mysite.myjoonweb.com","occurred_at":"2025-12-02T15:03:27+05:30","payload":{"order":{"id":25330,"invoice_id":"90379","name":"90379","app_id":null,"cancel_reason":null,"cancelled_at":null,"cart_token":"J9001764667930","checkout_id":991928,"checkout_token":"692eb21cbf021-251202150212-7823","closed_at":null,"confirmation_number":"90379","confirmed":true,"contact_email":"abbascoder@gmail.com","created_at":"2025-12-02 15:02:42","currency":"INR","current_subtotal_price":"491.18","current_total_discounts":"0","current_total_price":"649.00","current_total_tax":"107.82","discount_codes":[],"email":"abbascoder@gmail.com","estimated_taxes":false,"payment_status":"pending","shipping_status":"pending","location_id":null,"note":null,"note_attributes":[],"number":25330,"order_number":25330,"order_status_url":null,"payment_gateway_names":["Cash On Delivery (COD)"],"phone":"7703877737","presentment_currency":"INR","processed_at":"2025-12-02 15:02:42","processing_method":"manual","reference":null,"referring_site":null,"source_identifier":null,"source_name":"web","source_url":null,"subtotal_price":"491.18","tags":"","tax_lines":[{"price":"107.82","rate":0,"title":"Tax"}],"taxes_included":true,"test":false,"token":"692eb23a8073e-251202150242-5261","total_discounts":"0","total_line_items_price":"491.18","total_outstanding":"0.00","total_price":"649.00","total_tax":"107.82","total_tip_received":"0.00","total_weight":0,"updated_at":"2025-12-02 15:02:42","customer_id":96685,"billing_address":{"first_name":"GSTBill","last_name":"","company":"","address1":"Awesome Address","address2":"","city":"Delhi","state":"Delhi","country":"India","zip":"110025","phone":"7703877737","name":"GSTBill","country_code":"IN","province_code":"DE"},"customer":{"id":96685,"email":"abbascoder@gmail.com","first_name":"GSTBill","last_name":"","mobile":"7703877737","username":"Abbas","name":"Abbas","firstName":"Abbas","lastName":null,"status":"active","type":"member","created_at":"2024-05-13 14:01:09","updated_at":"2024-11-22 15:08:21"},"shipments":[],"shipping_address":{"first_name":"Abbas","last_name":"Rizvi","company":"","address1":"Joon Corporation, Westend Mall, Jankpuri Wests","address2":"sdas","city":"Awesome","state":"Delhi","country":"India","zip":"110058","mobile":"7703877737","name":"Abbas Rizvi","country_code":"IN","state_code":"DE"},"shipping_lines":[{"id":1,"title":"Standard Shipping","price":"50.00","code":"standard","source":"manual","phone":"7703877737","requested_fulfillment_service_id":null,"carrier_identifier":null,"discounted_price":"50.00"}],"returns":[],"items":[{"id":30644,"fulfillable_quantity":1,"fulfillment_service":"manual","fulfillment_status":"pending","weight":280,"name":"ADRIANA ANKLE SUPER SKINNY IN MID SUPERSOFT","price":"599.00","product_exists":true,"product_id":22908,"properties":[],"quantity":1,"requires_shipping":true,"sku":"","taxable":true,"title":"ADRIANA ANKLE SUPER SKINNY IN MID SUPERSOFT","total_discount":"0.00","variant_id":72173685235945,"variant_title":null,"vendor":null,"tax_lines":[]}]}}}
+=====================
+
