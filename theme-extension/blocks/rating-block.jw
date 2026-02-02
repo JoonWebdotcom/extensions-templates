@@ -1,0 +1,32 @@
+{% set metafields = block.settings.product.metafields.reviews ?? {} %}
+
+{% set rating = metafields.rating ?? 0 %}
+{% set count  = metafields.count ?? 0 %}
+
+{% if count > 0 %}
+<div class="jw-review-summary">
+  <div class="jw-review-header">
+    <div class="jw-review-stars">
+      {% for i in 1..5 %}
+        <span class="star {% if rating >= i %}filled{% elseif rating >= i - 0.5 %}half{% endif %}">★</span>
+      {% endfor %}
+    </div>
+    <div class="jw-review-meta">
+      <strong>{{ rating|number_format(1) }}</strong>
+      <span>out of 5</span><br>
+      <span>{{ count }} ratings</span>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+
+{% rules %}
+{
+  "name": "Rating Rating",
+  "target": "section",
+  "settings": [
+    { "type": "product", "id": "product", "label": "product", "autofill": true }
+  ]
+}
+{% endrules %}

@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "type": "theme_app_extension",
+  "extension_key":"",
+  "uid": "",
+  "blocks": [
+    {
+      "type": "app_sections",
+      "name": "Smart Float",
+      "target": "section",
+      "src": "blocks/rating-block.jw"
+    }
+  ]
+}
