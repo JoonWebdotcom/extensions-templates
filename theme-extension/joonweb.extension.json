@@ -1,8 +1,6 @@
 {
-  "name": "",
+  "name": "My Extension",
   "type": "theme_app_extension",
-  "extension_key":"",
-  "uid": "",
   "blocks": [
     {
       "type": "app_sections",
